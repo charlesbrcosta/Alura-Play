@@ -1,0 +1,40 @@
+/* HEADER*/
+
+.cabecalho__container {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    top: 0;
+}
+
+.cabecalho__pesquisar__item {
+    display: none;
+}
+
+.superior__secao__container {
+    display: flex;
+    align-items: center;
+    white-space: nowrap;
+    overflow: scroll;
+    gap: 15px;
+}
+
+/* FOOTER */
+.rodape__container {
+    display: flex;
+    flex-flow: column wrap;
+    /* flex-direction: column;
+    flex-wrap: wrap;     */
+}
+
+@media screen and (min-width: 834px){
+    /* HEADER */
+    .cabecalho__pesquisar__item {
+        display: block;
+    }
+
+    /* FOOTER */
+    .rodape__container {
+        justify-content: space-between;
+    }
+}
