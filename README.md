@@ -24,7 +24,7 @@ Este projeto foi do curso de formação Front-end da Alura com parceria com a Or
 
 ## :mag: Demonstração
 
-Para uma experiência completa do funcionamento do projeto, você pode acessar a demonstração interativa do Portfolio Github Page: [clique aqui.](https://charlesbrcosta.github.io/Desafio-T6-One-Portfolio/)
+Para uma experiência completa do funcionamento do projeto, você pode acessar a demonstração interativa do Portfolio Github Page: [clique aqui.](https://charlesbrcosta.github.io/Alura-Play/)
 
 ## :warning: Pré-requisitos
 
