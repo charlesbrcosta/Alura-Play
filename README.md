@@ -30,7 +30,7 @@ Para uma experiência completa do funcionamento do projeto, você pode acessar a
 
 - Navegador web moderno que suporte HTML5, CSS3 e JavaScript.
 
-## :open_file_folder: Como baixar o projeto para o computador
+## :open_file_folder: Como baixar o projeto para o computador e executar
 
 1. Clone o repositório:
 
