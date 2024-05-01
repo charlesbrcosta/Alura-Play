@@ -1,6 +1,6 @@
 # Alura Play
 
-Este projeto foi do curso de formação Front-end da Alura com parceria com a Oracle Next One total, com o objetivo principal de dominar a arte de criar telas responsivas para desktop, tablet e mobile, utilizando o FlexBox. Ao focar exclusivamente nessa linguagem de estilização, pude explorar profundamente as técnicas necessárias para tornar os layouts flexíveis e adaptáveis a diferentes dispositivos.
+Este projeto é do curso de formação Front-end da Alura com parceria com a Oracle Next One. O objetivo principal de dominar a arte de criar telas responsivas para desktop, tablet e mobile, utilizando o FlexBox. Ao focar exclusivamente nessa linguagem de estilização, pude explorar profundamente as técnicas necessárias para tornar os layouts flexíveis e adaptáveis a diferentes dispositivos.
 
 ## :dizzy: Tecnologias utilizadas
 
